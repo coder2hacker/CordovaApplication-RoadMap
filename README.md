@@ -336,8 +336,7 @@ which is equivalent to the following lines:
 <span class="nt">&lt;/platform&gt;</span>
 </code></pre></div>
 
-            </div>
-
+            
 
 
 
